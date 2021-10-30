@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-<title>Mon CV</title>
-</Head>
 <body>
 	<h1>HOUDA EL AFIFE</h1>
 	<img src="houdamini.jpg" alt="cv" />
@@ -24,12 +21,14 @@
 		<li> Ingenieur en informatique EMI </li>
 </ul>
 <h2>Mes compétences</h2>
-<ul>
+<p>
+	<ul>
 		<li>maitrise de html et css </li>
 		<li> maitrise de lanage c , python et java </li>
 		<li> des bases en comtabilité et marketing</li>
 		<li> bonnnes connaissances en comptabilté
 	</ul>
+</p>	
 
 <h2>Mon expérience</h2>
 
