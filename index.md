@@ -31,18 +31,19 @@
 </p>	
 
 <h2>Mon expérience</h2>
-
+<p>
 	<ul>
 		<li>stage de 3 mois chez ocp </li>
 		<li> cheft de projet de realisation d'un systeme de gestion d'une banque ;</li>
 	</ul>
+</p>	
 <h2> Loisirs et Centres d'intêret</h2>
-
+<p>
 	<ul>
 		<li>Sport</li>
 		<li> Gaming </li>
 		<li> Literature</li>
 	</ul>
-
+</p>
 	</body>
 	</html>	
